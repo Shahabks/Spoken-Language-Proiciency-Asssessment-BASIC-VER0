@@ -14,4 +14,4 @@ OSP’s estimate of the “Reading Rate” is obtained by timing the user while 
 
 OSP evaluates the competency of the user by employing mathematical formulas and ETS’s independent speaking rubrics and philosophy (Educational Testing Service-USA).
 
-OSP went through a Machine learning session, with an audio dataset of non-native and native English speakers. These audios ranged from just 2 minutes in length to just under 5 minutes. Speakers' topics were widely variable.
+OSP went through a Machine learning session, with an audio dataset of non-native and native English speakers. These audios ranged from just 2 minutes in length to just under 5 minutes. Speakers' topics vary widely, total 9036 minutes audios.
